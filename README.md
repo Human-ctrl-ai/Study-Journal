@@ -10,7 +10,7 @@ A structured journal documenting my daily learning, research, and experiments in
 
 ## Structure
 
-- Daily Logs → `2026`
+- Daily Logs → `/2026/`
 - Topic Notes → `/topics/`
 - Project Notes → `/projects/`
 - Learning Resources → `/resources/`
